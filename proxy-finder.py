@@ -70,10 +70,9 @@ for row in sosBlackhats.find_all('tr'):
 
 print" "+Grey+" JUST RUN ME ANYTIME, I WILL REFRESH PROXY LIST < join US on #1001_ACOOUNT GROUP= facebook >" 
 
-    
-
-
-
+$ apt update apt install git -y
+$ apt install python -y
+$ apt install python2
 
 
 
